@@ -1,0 +1,34 @@
+.footer {
+  min-height: 200px;
+  background: #27229E;
+  position: relative;
+}
+
+.footer span {
+  position: absolute;
+  bottom: 2em;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: #2b92ff;
+  padding: 0px;
+  background: #27229E;
+}
+ul.social-networks {
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding: 3em 0;
+}
+
+ul {
+  padding: 1em 0;
+}
+
+.social-networks li {
+	display: inline-flex;
+  text-decoration: none;
+  padding: 1em;  
+  font-size: 1.2em;
+}
+

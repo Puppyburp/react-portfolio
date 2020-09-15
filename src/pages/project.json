@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "title": "SCRUMMY BURGERS",
+    "subtitle": "Fun with MySQL databases",
+    "image": "./burger.png",
+    "github": "https://github.com/Puppyburp/13-node-express-handlebars",
+    "demo": "https://hidden-brushlands-11251.herokuapp.com/",
+    "text": "A burger logger that utilizes MySQL, Node, Express, Handlebars and a homemade ORM. Node and MySQL query and route data while Handlebars generates the page HTML."
+  },
+  {
+    "id": 2,
+    "title": "BACON BUTTON",
+    "subtitle": "Kanban boards, Github branching, APIs",
+    "image": "./bacon-btn.png",
+    "github": "https://github.com/Puppyburp/project-1-bacon-button",
+    "demo": "https://puppyburp.github.io/project-1-bacon-button/",
+    "text": "This team project served as an introduction to team-based development. During the development of the application, we became nimble with Github branching, utilized kanban boards, and practiced task delegation. API utilization was a key component of the project."
+  },
+  {
+    "id": 3,
+    "title": "NOMAD TRAVEL APP",
+    "subtitle": "MVC paradigm, Server-side API",
+    "image": "./nomad-app.png",
+    "github": "https://github.com/Puppyburp/nomad_project2",
+    "text": "This Nomad is a travel planning app that allows users to gather all of their travel information in one place. Keeping track of airline, hotel, and in the future, itinerary information (and beyond).​​"
+  },
+  {
+    "id": 4,
+    "title": "FITNESS TRACKER",
+    "subtitle": "Node, Express, and Mongodb",
+    "image": "./fitness-tracker.png",
+    "github": "https://github.com/Puppyburp/17-fitness-tracker",
+    "demo": "https://afternoon-beach-80607.herokuapp.com/",
+    "text": "A fitness tracking app that allows users to view, create, and track daily workouts. Created with a Mongo database, a Mongoose schema, and handles routes with Express"
+  },
+  {
+    "id": 5,
+    "title": "EMPLOYEE DIRECTORY",
+    "subtitle": "React, Components, Component States",
+    "image": "./employee-directory.png",
+    "github": "https://github.com/Puppyburp/19-employee-directory",
+    "demo": "https://puppyburp.github.io/19-employee-directory/",
+    "text": "A React based directory that allows users to search for employees by name and filter by a variety of categories."
+  },
+  {
+    "id": 6,
+    "title": "WEATHER DASHBOARD",
+    "subtitle": "API Practice",
+    "image": "./weather-dashboard.png",
+    "github": "https://github.com/Puppyburp/06-weather-dashboard",
+    "demo": "https://puppyburp.github.io/06-weather-dashboard/",
+    "text": "This homework assignment allowed us to practice utilizing third-party APIs. In this instance, the OpenWeather API provided data that allowed us to retrieve the current weather and upcoming forecast for cities. Features dynamically updated HTML and CSS."
+  }
+]
