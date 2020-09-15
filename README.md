@@ -8,5 +8,5 @@ React Router navigation, components utilized on multiple pages, and Reactstrap f
 
 ### Live Site
 
-[Link to live portfolio site](https://puppyburp.github.io/20-react-portfolio/).
+[Link to live portfolio site](https://puppyburp.github.io/react-portfolio/).
 
