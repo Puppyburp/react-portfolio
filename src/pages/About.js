@@ -20,7 +20,7 @@ function About() {
           </Col>
           <Col size="md-6">
             <p>
-              I'm a Manger, Senior Graphic Designer and Web Designer for Girls
+              I'm a Manager, Senior Graphic Designer and Web Designer for Girls
               on the Run International in Charlotte, North Carolina.
             </p>
             <p>
